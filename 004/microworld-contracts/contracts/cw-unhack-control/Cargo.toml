@@ -1,5 +1,5 @@
 [package]
-name = "cw-microworld-state"
+name = "cw-unhack-control"
 version = "0.1.0"
 authors = ["bluenote <janitachalam@gmail.com>"]
 edition = "2021"
