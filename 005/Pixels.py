@@ -27,7 +27,7 @@ class Pixels:
     def set_color(self, color):
         rgb = webcolors.name_to_rgb(color)
         hsv = colorsys.rgb_to_hsv(rgb[0]/255, rgb[1]/255, rgb[2]/255)
-        self.hue = (hsv[0] + 0.5) % 1
+        self.hue = hsv[0]
         self.saturation = hsv[1]
         self.brightness = hsv[2]
         self.set_hsv()
@@ -59,6 +59,7 @@ class Pixels:
             print(f"Response: {response}")
         except Exception as e:
             print(f"Error sending command: {e}")
+
 
     def done(self):
         self.ser.close()
