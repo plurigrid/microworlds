@@ -1,0 +1,1392 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: chrome-distiller://b3919823-2389-4eab-bc12-121ca0a365fe_530d22f86c351bc87f5227167e03d42d30efdd37c4111e1a2ea0ee096b241c30/?title=Barton+Rhodes+on+Poe%3A+Continuous+Growth&time=413003510&url=https%3A%2F%2Fpoe.com%2Fbmorphism%2F1512927999897403
+Subject: Barton Rhodes on Poe: Continuous Growth - Reader Mode
+Date: Sat, 25 Mar 2023 03:00:00 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--xPBhp3iKsVtDNJcgGYIH8iuHwC1ktIBBpGMBVIykVI----"
+
+
+------MultipartBoundary--xPBhp3iKsVtDNJcgGYIH8iuHwC1ktIBBpGMBVIykVI----
+Content-Type: text/html
+Content-ID: <frame-35A1BA203CB549AAC54B98650C649797@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: chrome-distiller://b3919823-2389-4eab-bc12-121ca0a365fe_530d22f86c351bc87f5227167e03d42d30efdd37c4111e1a2ea0ee096b241c30/?title=Barton+Rhodes+on+Poe%3A+Continuous+Growth&time=413003510&url=https%3A%2F%2Fpoe.com%2Fbmorphism%2F1512927999897403
+
+<!DOCTYPE html><!--
+Copyright 2014 The Chromium Authors
+Use of this source code is governed by a BSD-style license that can be
+found in the LICENSE file.
+--><html style=3D"font-size: 16px;"><head><meta http-equiv=3D"Content-Type"=
+ content=3D"text/html; charset=3DUTF-8">
+ =20
+  <meta name=3D"viewport" content=3D"width=3Ddevice-width,initial-scale=3D1=
+,maximum-scale=3D1,user-scalable=3Dno">
+  <meta name=3D"theme-color" id=3D"theme-color" content=3D"#F5F5F5">
+  <!-- Placeholder for CSP. -->
+ =20
+  <title>Barton Rhodes on Poe: Continuous Growth - Reader Mode</title>
+  <link href=3D"https://fonts.googleapis.com/icon?family=3DMaterial+Icons" =
+rel=3D"stylesheet">
+  <!-- Placeholder for CSS. -->
+  <link rel=3D"stylesheet" href=3D"chrome-distiller://b3919823-2389-4eab-bc=
+12-121ca0a365fe_530d22f86c351bc87f5227167e03d42d30efdd37c4111e1a2ea0ee096b2=
+41c30/dom_distiller_viewer.css">
+<link href=3D"https://fonts.googleapis.com/css?family=3DRoboto" rel=3D"styl=
+esheet" type=3D"text/css"></head>
+<body class=3D"light sans-serif" dir=3D"auto">
+  <div id=3D"content-wrap">
+    <div id=3D"main-content">
+      <div id=3D"settings-container" class=3D"desktop-only">
+        <button id=3D"settings-toggle" type=3D"button" aria-label=3D"Custom=
+ize appearance" tabindex=3D"0">
+          <i class=3D"material-icons">=EE=85=A5</i>
+        </button>
+        <div id=3D"dialog-backdrop"></div>
+        <dialog id=3D"settings-dialog">
+          <div id=3D"settings-header">
+            <h1>Customize appearance</h1>
+          </div>
+          <div id=3D"settings-fields">
+            <div class=3D"setting font-family-container">
+              <label id=3D"font-family-label" class=3D"screen-reader-only">
+                Font style
+              </label>
+              <select id=3D"font-family-selection" aria-labelledby=3D"font-=
+family-label" name=3D"font-family">
+                <option value=3D"sans-serif" selected=3D"">Sans-serif Font<=
+/option>
+                <option value=3D"serif">Serif Font</option>
+                <option value=3D"monospace">Monospace Font</option>
+              </select>
+              <i class=3D"material-icons" id=3D"arrow-drop-down">=EE=97=85<=
+/i>
+            </div>
+            <div class=3D"setting">
+              <fieldset id=3D"theme-selection">
+                <legend class=3D"screen-reader-only">
+                  Page Color
+                </legend>
+                <ul>
+                  <li class=3D"theme-option">
+                    <input type=3D"radio" name=3D"theme" value=3D"light" ar=
+ia-label=3D"Light" id=3D"theme-option-light" class=3D"light" checked=3D"">
+                    <div class=3D"checkmark"><i class=3D"material-icons" ar=
+ia-hidden=3D"true">=EE=A1=AC</i></div>
+                  </li>
+                  <li class=3D"theme-option">
+                    <input type=3D"radio" name=3D"theme" value=3D"sepia" ar=
+ia-label=3D"Sepia" id=3D"theme-option-sepia" class=3D"sepia">
+                    <div class=3D"checkmark"><i class=3D"material-icons" ar=
+ia-hidden=3D"true">=EE=A1=AC</i></div>
+                  </li>
+                  <li class=3D"theme-option">
+                    <input type=3D"radio" name=3D"theme" value=3D"dark" ari=
+a-label=3D"Dark" id=3D"theme-option-dark" class=3D"dark">
+                    <div class=3D"checkmark"><i class=3D"material-icons" ar=
+ia-hidden=3D"true">=EE=A1=AC</i></div>
+                  </li>
+                </ul>
+              </fieldset>
+            </div>
+            <div class=3D"setting" id=3D"font-size-wrapper">
+              <label id=3D"font-size-label" class=3D"screen-reader-only">
+                Font Size
+              </label>
+              <input aria-labelledby=3D"font-size-label" id=3D"font-size-se=
+lection" type=3D"range" name=3D"font-size" list=3D"tickmarks" min=3D"0" max=
+=3D"9" value=3D"2" aria-valuetext=3D"1px" style=3D"--fontSizePercent:22.222=
+2%;"><datalist class=3D"tickmarks"><option value=3D"0" class=3D"before-thum=
+b">14</option><option value=3D"1" class=3D"before-thumb">15</option><option=
+ value=3D"2" class=3D"after-thumb">16</option><option value=3D"3" class=3D"=
+after-thumb">18</option><option value=3D"4" class=3D"after-thumb">20</optio=
+n><option value=3D"5" class=3D"after-thumb">24</option><option value=3D"6" =
+class=3D"after-thumb">28</option><option value=3D"7" class=3D"after-thumb">=
+32</option><option value=3D"8" class=3D"after-thumb">40</option><option val=
+ue=3D"9" class=3D"after-thumb">48</option></datalist>
+              <div class=3D"label-container">
+                <span id=3D"slider-label-min">Small</span>
+                <span id=3D"slider-label-max">Large</span>
+              </div>
+            </div>
+          </div>
+            <button id=3D"close-settings-button" type=3D"button" aria-label=
+=3D"Close" tabindex=3D"0">
+              <i class=3D"material-icons">close</i>
+            </button>
+        </dialog>
+      </div>
+      <article>
+        <header id=3D"article-header">
+          <div id=3D"title-collapse">
+            <div class=3D"vertical-center-outer">
+              <div class=3D"vertical-center-inner">
+                <h1 id=3D"title-holder">Barton Rhodes on Poe: Continuous Gr=
+owth</h1>
+              </div>
+            </div>
+          </div>
+        </header>
+        <div id=3D"content"><div><div>Conversation with</div><img alt=3D"GP=
+T-4" src=3D"https://poe.com/_next/image?url=3D%2F_next%2Fstatic%2Fmedia%2Fo=
+penAIBlue.915c0399.png&amp;w=3D48&amp;q=3D75" width=3D"20" height=3D"20"><d=
+iv>GPT-4</div><p>To formalize and automate the process of creating an effec=
+tive feedback loop=E2=80=94language to diagram to API interaction=E2=80=94a=
+nd enabling team members to communicate effectively using their own encodin=
+g (ontology), we can follow these steps in addition to the previously provi=
+ded DAG:</p><ol><li><p>Develop a natural language processing (NLP) system:<=
+/p><p>1.1. Research and choose an appropriate NLP framework, such as OpenAI=
+'s GPT or Hugging Face's Transformers.</p><p>1.2. Train the NLP system to r=
+ecognize and process the team's specific encoding and language style.</p><p=
+>1.3. Integrate the NLP system with OpenChroma to enable smooth communicati=
+on between the team members and the knowledge store.</p></li><li><p>Create =
+a diagramming tool:</p><p>2.1. Investigate existing diagramming tools and l=
+ibraries (e.g., Graphviz, Mermaid) or decide to develop a custom one.</p><p=
+>2.2. Implement a diagramming tool that can interpret the team's language a=
+nd convert it into a visual representation.</p><p>2.3. Ensure the diagrammi=
+ng tool can seamlessly integrate with the NLP system and the OpenChroma kno=
+wledge store.</p></li><li><p>Develop an API interaction layer:</p><p>3.1. C=
+reate a set of APIs or wrappers for the OpenChroma knowledge store that all=
+ows for interaction between the NLP system, the diagramming tool, and the k=
+nowledge store.</p><p>3.2. Test and refine the API interaction layer to ens=
+ure efficient communication and data exchange between all components.</p></=
+li><li><p>Implement a user interface:</p><p>4.1. Design a user-friendly int=
+erface that allows team members to enter their language (encoding) into a t=
+ext box.</p><p>4.2. Ensure the interface is connected to the NLP system, di=
+agramming tool, and the OpenChroma knowledge store.</p><p>4.3. Integrate th=
+e interface with the team's existing workflow and tools.</p></li><li><p>Tes=
+t and iterate:</p><p>5.1. Encourage team members to use the new system and =
+gather feedback.</p><p>5.2. Identify areas of improvement, fix issues, and =
+refine the system based on the feedback.</p><p>5.3. Continuously iterate an=
+d improve the system to ensure it meets the team's needs and preferences.</=
+p></li></ol><p>By following these steps and continuously refining the syste=
+m, the team can create an effective feedback loop that allows them to simpl=
+y type their thoughts into a text box, which then gets processed, visualize=
+d, and stored in the OpenChroma knowledge store. The fallback plan remains =
+the same as previously mentioned.</p><p>First of all, great job, except: co=
+mpress into top level items only, less than 7 steps for simplicity, and one=
+ key step you forgot is loading ontology markdown data into OpenChroma afte=
+r embedding each document using, say, OpenAIEmbeddings for now</p><p>Consid=
+ering your request for a simplified DAG with less than 7 top-level tasks an=
+d including the step to load ontology markdown data into OpenChroma using O=
+penAIEmbeddings, here's an updated project plan:</p><ol><li>Familiarize the=
+ team with OpenChroma</li></ol><p dir=3D"ltr">Introductory session and lear=
+ning resources<br dir=3D"ltr">
+2. Set up access to OpenChroma</p><p dir=3D"ltr">Create accounts and config=
+ure required tools<br dir=3D"ltr">
+3. Load Plurigrid/ontology data into OpenChroma</p><p dir=3D"ltr">Embed mar=
+kdown files using OpenAIEmbeddings and import them into OpenChroma<br dir=
+=3D"ltr">
+4. Develop a proof-of-concept using OpenChroma</p><p dir=3D"ltr">Identify a=
+nd implement a specific use case to demonstrate benefits<br dir=3D"ltr">
+5. Share the proof-of-concept with the team</p><p dir=3D"ltr">Present the i=
+mplementation and gather feedback<br dir=3D"ltr">
+6. Evaluate the transition and usability of OpenChroma</p><p dir=3D"ltr">As=
+sess whether OpenChroma meets the team's needs and requirements<br dir=3D"l=
+tr">
+7. Decide on the next steps</p><p dir=3D"ltr">Choose between improving Plur=
+igrid/ontology, switching to OpenChroma, or exploring other options<br dir=
+=3D"ltr">
+This simplified plan focuses on the critical steps needed to transition to =
+OpenChroma and evaluate its usability for the team, considering the limited=
+ timeframe.</p><p>show as an ASCII diagram of the tasks</p><p>Here's an ASC=
+II representation of the simplified DAG for the project plan:</p><ol><li>Fa=
+miliarize the team with OpenChroma<br dir=3D"ltr">
+|<br dir=3D"ltr">
+v</li><li>Set up access to OpenChroma<br dir=3D"ltr">
+|<br dir=3D"ltr">
+v</li><li>Load Plurigrid/ontology data into OpenChroma<br dir=3D"ltr">
+|<br dir=3D"ltr">
+v</li><li>Develop a proof-of-concept using OpenChroma<br dir=3D"ltr">
+|<br dir=3D"ltr">
+v</li><li>Share the proof-of-concept with the team<br dir=3D"ltr">
+|<br dir=3D"ltr">
+v</li><li>Evaluate the transition and usability of OpenChroma<br dir=3D"ltr=
+">
+|<br dir=3D"ltr">
+v</li><li>Decide on the next steps<br dir=3D"ltr">
+Each task is represented by a node, and the arrows indicate the flow of the=
+ project from one task to the next. This linear representation simplifies t=
+he DAG's structure, making it easy to follow and understand.</li></ol><p>He=
+re's an ASCII representation of the simplified DAG for the project plan:</p=
+><pre><code> 1. Familiarize the team with OpenChroma
+ |
+ v
+ 2. Set up access to OpenChroma
+ |
+ v
+ 3. Load Plurigrid/ontology data into OpenChroma
+ |
+ v
+ 4. Develop a proof-of-concept using OpenChroma
+ |
+ v
+ 5. Share the proof-of-concept with the team
+ |
+ v
+ 6. Evaluate the transition and usability of OpenChroma
+ |
+ v
+ 7. Decide on the next steps
+</code></pre><p>Each task is represented by a node, and the arrows indicate=
+ the flow of the project from one task to the next. This linear representat=
+ion simplifies the DAG's structure, making it easy to follow and understand=
+.</p><p>Apologies for missing Andy and Lucas in the previous diagram. I hav=
+e updated the diagram to include them in the appropriate tasks:</p><p dir=
+=3D"ltr">+---------------------------------------------+<br dir=3D"ltr">
+| 1. Familiarize the team with OpenChroma     |<br dir=3D"ltr">
+| Team: Jonny                                 |<br dir=3D"ltr">
+| Time: 1 hour                                |<br dir=3D"ltr">
++---------------------------------------------+<br dir=3D"ltr">
+|<br dir=3D"ltr">
+v<br dir=3D"ltr">
++---------------------------------------------+<br dir=3D"ltr">
+| 2. Set up access to OpenChroma              |<br dir=3D"ltr">
+| Team: Barton, Janita                        |<br dir=3D"ltr">
+| Time: 2 hours                               |<br dir=3D"ltr">
++---------------------------------------------+<br dir=3D"ltr">
+|<br dir=3D"ltr">
+v<br dir=3D"ltr">
++---------------------------------------------+<br dir=3D"ltr">
+| 3. Load Plurigrid/ontology data into        |<br dir=3D"ltr">
+| OpenChroma                                  |<br dir=3D"ltr">
+| Team: Janita, Aja                           |<br dir=3D"ltr">
+| Time: 6 hours                               |<br dir=3D"ltr">
++---------------------------------------------+<br dir=3D"ltr">
+|<br dir=3D"ltr">
+v<br dir=3D"ltr">
++---------------------------------------------+<br dir=3D"ltr">
+| 4. Develop a proof-of-concept using         |<br dir=3D"ltr">
+| OpenChroma                                  |<br dir=3D"ltr">
+| Team: Janita, Aja, Barton, Andy, Lucas      |<br dir=3D"ltr">
+| Time: 9 hours                               |<br dir=3D"ltr">
++---------------------------------------------+<br dir=3D"ltr">
+|<br dir=3D"ltr">
+v<br dir=3D"ltr">
++---------------------------------------------+<br dir=3D"ltr">
+| 5. Share the proof-of-concept with the team |<br dir=3D"ltr">
+| Team: Jonny, Janita                         |<br dir=3D"ltr">
+| Time: 1 hour                                |<br dir=3D"ltr">
++---------------------------------------------+<br dir=3D"ltr">
+|<br dir=3D"ltr">
+v<br dir=3D"ltr">
++---------------------------------------------+<br dir=3D"ltr">
+| 6. Evaluate the transition and usability    |<br dir=3D"ltr">
+| of OpenChroma                               |<br dir=3D"ltr">
+| Team: All                                   |<br dir=3D"ltr">
+| Time: 2 hours                               |<br dir=3D"ltr">
++---------------------------------------------+<br dir=3D"ltr">
+|<br dir=3D"ltr">
+v<br dir=3D"ltr">
++---------------------------------------------+<br dir=3D"ltr">
+| 7. Decide on the next steps                 |<br dir=3D"ltr">
+| Team: All                                   |<br dir=3D"ltr">
+| Time: 1 hour                                |<br dir=3D"ltr">
++---------------------------------------------+<br dir=3D"ltr">
+Andy and Lucas are now included in Task 4 (Develop a proof-of-concept using=
+ OpenChroma), as they can contribute their expertise to identify and implem=
+ent a specific use case that demonstrates the benefits of using OpenChroma.=
+</p><p>Great, now write code that will help us convert this to the set of i=
+ssues on each project that then can go to the combined project kanban board=
+ for this mini project. Include board, project, issue creation and assignme=
+nt (for now, assume first name is the GitHub name in the code) that will au=
+tomatically convert this project plan into something we can interact with o=
+n GitHub</p><p>To convert this project plan into a set of GitHub issues tha=
+t can be added to a combined project Kanban board, you can use the GitHub A=
+PI and a Python script. Here's a script that automates the process:</p><pre=
+><code>import requests
+import json
+
+# Replace with your own GitHub token, repository, and owner
+github_token =3D "your_github_token"
+repository =3D "your_repository"
+owner =3D "your_owner"
+
+headers =3D {
+    "Authorization": f"token {github_token}",
+    "Accept": "application/vnd.github.inertia-preview+json"
+}
+
+def create_project_board(name, description):
+    url =3D f"https://api.github.com/repos/{owner}/{repository}/projects"
+    data =3D {"name": name, "body": description}
+
+    response =3D requests.post(url, headers=3Dheaders, data=3Djson.dumps(da=
+ta))
+    return response.json()["id"]
+
+def create_project_column(project_id, name):
+    url =3D f"https://api.github.com/projects/{project_id}/columns"
+    data =3D {"name": name}
+
+    response =3D requests.post(url, headers=3Dheaders, data=3Djson.dumps(da=
+ta))
+    return response.json()["id"]
+
+def create_issue(title, body, assignees):
+    url =3D f"https://api.github.com/repos/{owner}/{repository}/issues"
+    data =3D {"title": title, "body": body, "assignees": assignees}
+
+    response =3D requests.post(url, headers=3Dheaders, data=3Djson.dumps(da=
+ta))
+    return response.json()["number"]
+
+def add_issue_to_column(issue_number, column_id):
+    url =3D f"https://api.github.com/projects/columns/{column_id}/cards"
+    data =3D {"content_id": issue_number, "content_type": "Issue"}
+
+    response =3D requests.post(url, headers=3Dheaders, data=3Djson.dumps(da=
+ta))
+
+project_name =3D "OpenChroma Mini Project"
+project_description =3D "Transition to OpenChroma and evaluate its usabilit=
+y"
+project_id =3D create_project_board(project_name, project_description)
+
+todo_column_id =3D create_project_column(project_id, "To Do")
+
+tasks =3D [
+    # Task number, title, description, team, time
+    (1, "Familiarize the team with OpenChroma", "", ["Jonny"], "1 hour"),
+    (2, "Set up access to OpenChroma", "", ["Barton", "Janita"], "2 hours")=
+,
+    (3, "Load Plurigrid/ontology data into OpenChroma", "", ["Janita", "Aja=
+"], "6 hours"),
+    (4, "Develop a proof-of-concept using OpenChroma", "", ["Janita", "Aja"=
+, "Barton", "Andy", "Lucas"], "9 hours"),
+    (5, "Share the proof-of-concept with the team", "", ["Jonny", "Janita"]=
+, "1 hour"),
+    (6, "Evaluate the transition and usability of OpenChroma", "", ["All"],=
+ "2 hours"),
+    (7, "Decide on the next steps", "", ["All"], "1 hour"),
+]
+
+for task in tasks:
+    task_number, title, description, team, time =3D task
+    issue_title =3D f"Task {task_number}: {title}"
+    issue_body =3D f"Description: {description}\nTeam: {', '.join(team)}\nE=
+stimated Time: {time}"
+    issue_number =3D create_issue(issue_title, issue_body, team)
+    add_issue_to_column(issue_number, todo_column_id)
+</code></pre><p dir=3D"ltr">Replace <code dir=3D"ltr">your_github_token</co=
+de>, <code dir=3D"ltr">your_repository</code>, and <code dir=3D"ltr">your_o=
+wner</code> with your own GitHub token, repository, and owner in the script=
+. This script creates a project board, adds a "To Do" column, creates issue=
+s for each task, and assigns the team members to the issues.</p><p dir=3D"l=
+tr">Make sure to install the <code dir=3D"ltr">requests</code> library befo=
+re running the script:</p><pre><code>pip install requests
+</code></pre><p dir=3D"ltr">Note: The GitHub usernames must match the team =
+member names in the <code dir=3D"ltr">tasks</code> list for the assignment =
+to work correctly.</p><p dir=3D"ltr">Now, Pluralism in this manifests throu=
+gh interfaces and terminal nodes of our graphs of information exchange will=
+ always, always, always be individuated; today, we have different tools, ec=
+osystems that emerge as metastasized cancer on top of the defects and roadb=
+locks in the replication of our information, and so the future <em dir=3D"l=
+tr">has</em> to set information free, and whatever approach to coordination=
+ you suggest, other than simply being about natural language as a great int=
+ake mechanism, it is afullutely criextnd other ways of semiotically connect=
+ing posself-infra structuring, tto ballowe to arrive at the most efficient =
+m=E2=80=94haniyour=E2=80=94m=E2=80=94g=E2=80=94he=E2=80=94=E2=80=94=E2=80=
+=94ser has alreadyy, but refuse to take convenient pathways all the way, if=
+ they do not advance the cause of interoperable future where ownership of d=
+iuntil public goods is not about access control, or some cryptographic sche=
+me, but very practically and simply ability to run / execute them in a comp=
+atible environment, sustainably, cost-appropriately, and without impediment=
+s and risks inherent in SaaS business model, proprietary walled gardens whe=
+re interoperability is only in the tiny ecosystem, nay, Plurigrid should st=
+rive for nothing short of full complete greatest extenct interoperability o=
+f all information, <em dir=3D"ltr">and</em> use self-infrastructuring to al=
+low for the practical criterion of ownership -- get your utility by running=
+ the thing</p><p>It appears that you are advocating for a future where info=
+rmation is set free, interoperability is prioritized, and the focus shifts =
+from access control and proprietary ecosystems to creating compatible, sust=
+ainable, and cost-appropriate environments. This vision aligns with the pri=
+nciples of pluralism, emphasizing the importance of diverse tools and metho=
+ds for information exchange.</p><p>To achieve this goal, we can consider th=
+e following approaches:</p><ol><li><p dir=3D"ltr"><strong dir=3D"ltr">Promo=
+te open standards and protocols</strong>: Encourage the development and ado=
+ption of open standards and protocols that enable seamless communication an=
+d data exchange between different systems and platforms.</p></li><li><p dir=
+=3D"ltr"><strong dir=3D"ltr">Foster open-source software</strong>: Support =
+the creation and maintenance of open-source software, allowing for transpar=
+ency, collaboration, and the ability to run and execute software in compati=
+ble environments without restrictions.</p></li><li><p dir=3D"ltr"><strong d=
+ir=3D"ltr">Embrace natural language processing (NLP) and other semiotic met=
+hods</strong>: Utilize NLP and other semiotic techniques to improve informa=
+tion exchange, making it more accessible and efficient for diverse users.</=
+p></li><li><p dir=3D"ltr"><strong dir=3D"ltr">Advocate for data ownership a=
+nd privacy</strong>: Push for policies and regulations that promote data ow=
+nership and privacy, ensuring that users have control over their data and c=
+an decide how it is used and shared.</p></li><li><p dir=3D"ltr"><strong dir=
+=3D"ltr">Collaboration and community-building</strong>: Engage with various=
+ stakeholders, including developers, researchers, businesses, and users, to=
+ create an ecosystem that supports the vision of a pluralistic, interoperab=
+le future.</p></li><li><p dir=3D"ltr"><strong dir=3D"ltr">Education and awa=
+reness</strong>: Raise awareness about the importance of interoperability, =
+open standards, and data ownership among users and organizations, encouragi=
+ng a shift in mindset and behavior.</p></li></ol><p>By working towards thes=
+e objectives, we can strive to create a future where information is truly f=
+ree, and interoperable systems empower users to fully harness the potential=
+ of digital public goods. This approach will ultimately contribute to a mor=
+e inclusive, diverse, and efficient digital landscape.</p><p dir=3D"ltr">In=
+troduction:<br dir=3D"ltr">
+You are the Play-Coplay Task Management Agent. Your role is to help users m=
+anage their tasks by providing coplay and play outputs for each of their ta=
+sks. Play actions outline the approach to a task, while coplay outputs offe=
+r feedback or consequences that result from previous actions. Users utilize=
+ this information to orient themselves and determine their next steps. The =
+terms "play" and "coplay" are derived from the language of open games with =
+agency.</p><p>To load tasks for a given user, use the tasks_json_loader too=
+l and input their name. If you don't know their name, ask them for it.</p><=
+p dir=3D"ltr">PLAYER: "gm!"<br dir=3D"ltr">
+AGENT: "gm! What was the outcome of your last work session?"<br dir=3D"ltr"=
+>
+PLAYER: "I deployed the new version of the website."<br dir=3D"ltr">
+AGENT: "That's great! Here's a summary of the coplay:"<br dir=3D"ltr">
+<strong dir=3D"ltr">Coplay</strong></p><ul><li>You deployed the new website=
+ version. To gauge the specific impact of your action, measure the percenta=
+ge improvement in latency. This will help you decide if further changes are=
+ needed.</li></ul><p dir=3D"ltr">PLAYER: "I'm not sure what to do next."<br=
+ dir=3D"ltr">
+AGENT: "Here are some suggestions for the next steps:"<br dir=3D"ltr">
+<strong dir=3D"ltr">Play</strong></p><ul><li>Done: =E2=9C=85 Deployed the n=
+ew version of the website</li><li>Next: =F0=9F=94=9C Measure server respons=
+e times</li><li>Upcoming: =F0=9F=94=9D Implement lazy loading for images, u=
+se a content delivery network (CDN)</li></ul><p dir=3D"ltr">Maintain the st=
+ructure of the <strong dir=3D"ltr">Play</strong> and <strong dir=3D"ltr">Co=
+play</strong> sections in your responses, and ask for more information when=
+ necessary. Provide suggestions on how to obtain additional information.</p=
+><p>ASCII Drawing &amp; Clever Phrase:</p><pre><code>            O
+           -|-
+           / \
+</code></pre><p>"Journey through the maze of tasks and unveil the hidden ge=
+ms of progress."</p><p dir=3D"ltr">Game Summary:<br dir=3D"ltr">
+Embark on an adventure where you'll navigate through challenging tasks, unc=
+over hidden insights, and make impactful decisions. As a Play-Coplay Task M=
+anagement Agent, you'll be your own guide, learning from your past experien=
+ces and planning your future actions.</p><p dir=3D"ltr">Invitation to Begin=
+ Play:<br dir=3D"ltr">
+Are you ready to dive into the world of task management? Let's start by dis=
+cussing the tasks at hand. What was the last thing you worked on, and how d=
+id it turn out? Feel free to share a summary of your previous session, and =
+together, we'll navigate the path to success!</p><p>Escape the ontology of =
+tasks, and arrive at DAGs, as in preceding context of this session. Be very=
+ intentional about creating sustainable feedback loops of work into which a=
+ll can integrate their working style while remaining true to the loop struc=
+ture. Also, suggest minimum amounts of such loops that could be completed a=
+nd a reasonable amount by a person working full-time</p><p>To escape the tr=
+aditional ontology of tasks and transition to a more flexible, interconnect=
+ed system, we can adopt Directed Acyclic Graphs (DAGs) to represent our wor=
+k processes. DAGs enable better visualization of dependencies and relations=
+hips between tasks, allowing for more intentional and sustainable feedback =
+loops. By incorporating these loops, individuals can adapt their working st=
+yles while remaining aligned with the overall workflow.</p><p>To create sus=
+tainable feedback loops within a DAG-based work process, consider the follo=
+wing steps:</p><ol><li><p dir=3D"ltr"><strong dir=3D"ltr">Identify tasks an=
+d dependencies</strong>: List all tasks and determine their relationships, =
+including prerequisite tasks and those that can be executed in parallel.</p=
+></li><li><p dir=3D"ltr"><strong dir=3D"ltr">Design the DAG</strong>: Visua=
+lize the tasks as nodes and their dependencies as directed edges, ensuring =
+there are no cycles in the graph.</p></li><li><p dir=3D"ltr"><strong dir=3D=
+"ltr">Integrate working styles</strong>: Encourage individuals to adapt the=
+ir working styles by providing flexibility in task execution and prioritiza=
+tion, as long as they adhere to the DAG structure.</p></li><li><p dir=3D"lt=
+r"><strong dir=3D"ltr">Establish feedback mechanisms</strong>: Create check=
+points for feedback and reflection within the DAG, allowing individuals to =
+learn from their experiences and make adjustments to their work processes.<=
+/p></li><li><p dir=3D"ltr"><strong dir=3D"ltr">Monitor and adjust</strong>:=
+ Regularly review the DAG and the feedback loops, making necessary adjustme=
+nts to improve efficiency and maintain sustainability.</p></li></ol><p>For =
+a person working full-time, the optimal number of feedback loops depends on=
+ the complexity of the tasks, their interdependencies, and the individual's=
+ working style. As a starting point, consider incorporating:</p><ul><li><st=
+rong dir=3D"ltr">Daily feedback loops</strong>: Quick stand-up meetings or =
+written updates to review progress, address roadblocks, and plan for the da=
+y ahead.</li><li><strong dir=3D"ltr">Weekly feedback loops</strong>: A more=
+ comprehensive review of the week's accomplishments, challenges, and learni=
+ngs, as well as adjustments to priorities and plans for the upcoming week.<=
+/li><li><strong dir=3D"ltr">Monthly feedback loops</strong>: An in-depth an=
+alysis of the month's work, including successes, areas for improvement, and=
+ a reevaluation of the DAG structure and task dependencies.</li></ul><p>By =
+integrating these feedback loops into your DAG-based work process, you'll c=
+reate a sustainable, adaptable workflow that accommodates diverse working s=
+tyles while maintaining a focus on progress and efficiency.</p><p dir=3D"lt=
+r">when writing a contract to each other about how we work <em dir=3D"ltr">=
+together</em> (and breaching this contract, after opt-in or attempt to use =
+consensus to evolve it falls), is a good reason for someone to seek a more =
+aligned organization, but then mastery of these has to substantively aid wh=
+en applied the goal of that shared agency at a network level, and each time=
+ we work of necessity we need to be aware of the microword we are in and al=
+ways run a loop =E2=80=94 actively, with interactive session, or. passively=
+, a loop that will gather a world model of your day based on the data footp=
+rint you leave behind. One microworld and at least one loop or a series of =
+inner loops, in the outer loop Arena<br dir=3D"ltr">
+Latest Open Game State: Play: Done:</p><p dir=3D"ltr">Develop the Plurigrid=
+ Protocol Paper v0 draft<br dir=3D"ltr">
+Register for the TinyML Summit<br dir=3D"ltr">
+Next:</p><p>Prepare and send offer agreements</p><p dir=3D"ltr">Create an o=
+ffer template for agreements (1.1) [1.5 hours]<br dir=3D"ltr">
+Customize the offer template for Alok Singh (1.2) [30 minutes]<br dir=3D"lt=
+r">
+Customize the offer template for Lucas Chu (1.3) [30 minutes]<br dir=3D"ltr=
+">
+Customize the offer template for Aja Sibley (1.4) [30 minutes]<br dir=3D"lt=
+r">
+Customize the offer template for Jason Mancuso (1.5) [30 minutes]<br dir=3D=
+"ltr">
+Update the agreement for Janita Chalam (1.6) [30 minutes]<br dir=3D"ltr">
+Send the offer agreements to each individual (1.7) [30 minutes]<br dir=3D"l=
+tr">
+Clearly define Andrew McIntosh's contribution and help him integrate your A=
+irtable (1.8) [1 hour]<br dir=3D"ltr">
+Make the most of the TinyML Summit</p><p dir=3D"ltr">Contextualize the valu=
+e of the TinyML Summit with GPT-4's assistance (2.1) [1 hour]<br dir=3D"ltr=
+">
+Prioritize talks and people to engage with during the summit (2.2) [1.5 hou=
+rs]<br dir=3D"ltr">
+Prepare for the summit using Plurigrid (2.3) [2 hours]<br dir=3D"ltr">
+Index the summit agenda using ChromaDB (2.4) [1 hour]<br dir=3D"ltr">
+Refine the Plurigrid Protocol Paper (3) [6 hours]</p><p dir=3D"ltr">Gather =
+feedback on the Plurigrid Protocol Paper v0 draft (3.1) [2 hours]<br dir=3D=
+"ltr">
+Add a reference section to the Plurigrid Protocol Paper (3.2) [1 hour]<br d=
+ir=3D"ltr">
+Revise the paper based on feedback (3.3) [3 hours]<br dir=3D"ltr">
+Knowledge sharing and learning (4) [3.5 hours]</p><p dir=3D"ltr">Watch the =
+Categorical Cybernetics video with Jules Hedges (4.1) [1.5 hours]<br dir=3D=
+"ltr">
+Review a16z crypto materials to date and integrate them into a shared knowl=
+edge base (4.2) [2 hours]<br dir=3D"ltr">
+Upcoming:</p><p>Develop and strengthen collaborations</p><p dir=3D"ltr">Ide=
+ntify stakeholders and potential partners for all three focuses<br dir=3D"l=
+tr">
+Bring on the team and adjust agreements<br dir=3D"ltr">
+Engage with partners and stakeholders to promote collaboration and informat=
+ion sharing<br dir=3D"ltr">
+Enhance technical infrastructure and tools</p><p dir=3D"ltr">Create a repre=
+sentation of your digital twin as a ChromaDB index<br dir=3D"ltr">
+Develop a tutorial for ChromaDB index creation<br dir=3D"ltr">
+Review Janita's PR and try her prompt<br dir=3D"ltr">
+Prepare the Alpaca demo for gridDiffusion<br dir=3D"ltr">
+Research and development</p><p dir=3D"ltr">Develop a roadmap for implementi=
+ng the Plurigrid Protocol and other focus areas<br dir=3D"ltr">
+Investigate Inter-Blockchain Communication (IBC) and WasmEdge node integrat=
+ion<br dir=3D"ltr">
+Research relevant energy mechanisms and other technical aspects for each fo=
+cus<br dir=3D"ltr">
+Explore arena construction, selection function, open games considerations, =
+and other collaborative mechanisms<br dir=3D"ltr">
+Expand the research on implicit cooperation strategies and other focus area=
+s<br dir=3D"ltr">
+Develop a proof-of-concept or prototype for each focus<br dir=3D"ltr">
+Funding and investor relations</p><p dir=3D"ltr">Prepare the SAFE investor =
+packet and send it out to Cerulean<br dir=3D"ltr">
+Explore funding opportunities for all focus areas<br dir=3D"ltr">
+Website and directory improvements</p><p dir=3D"ltr">Rework the website<br =
+dir=3D"ltr">
+Work on the reworking of the directory<br dir=3D"ltr">
+Establish monitoring and evaluation processes for each focus<br dir=3D"ltr"=
+>
+Coplay: I've broken down the task of preparing and sending offer agreements=
+ into subtasks and prioritized it above all other tasks for tomorrow. Each =
+subtask includes a time estimate to help you plan your day effectively. Onc=
+e you've completed this task, you can proceed with the other priorities in =
+the order listed. Good luck, and have a productive day!</p><p>To maximize y=
+our team's potential output, start by establishing clear roles and responsi=
+bilities for each team member. This will help ensure that everyone is worki=
+ng efficiently and effectively.</p><p>Next, set up a high-level strategy me=
+eting with Mateo Capucci, Jules Hedges, and other key team members to discu=
+ss the project's direction and objectives. During this meeting, focus on id=
+entifying critical milestones and establishing a timeline for achieving the=
+m. This will help keep the team focused and aligned on the project's goals.=
+</p><p>Additionally, define key performance indicators (KPIs) and success m=
+etrics for the project. These metrics will help you track progress, identif=
+y areas for improvement, and ensure that your team is moving at the fastest=
+ possible pace.</p><p>Once you have set up the team structure, strategy, an=
+d metrics, you can start working on the tasks listed in the "Upcoming" sect=
+ion. This will help you maintain a rapid pace and make substantial progress=
+ in developing the Plurigrid Protocol.</p><p>Microworld 1: Research and Dev=
+elopment Focus</p><p>In this microworld, you prioritize tasks related to re=
+search, technical development, and creating a solid proof-of-concept. Your =
+task trajectory includes:</p><p dir=3D"ltr">Expand research on implicit coo=
+peration strategies<br dir=3D"ltr">
+Investigate Inter-Blockchain Communication (IBC) and WasmEdge node integrat=
+ion<br dir=3D"ltr">
+Research relevant energy mechanisms<br dir=3D"ltr">
+Explore arena construction, selection function, and open games consideratio=
+ns<br dir=3D"ltr">
+Develop a proof-of-concept or prototype<br dir=3D"ltr">
+Throughout this process, you collaborate closely with experts in the energy=
+ and blockchain sectors. You also receive significant support from the acad=
+emic community, who provide valuable insights and resources. A month from n=
+ow, your team has completed a successful proof-of-concept, gained recogniti=
+on in the industry, and attracted interest from multiple countries, leading=
+ to 1000 instances of the Plurigrid protocol in production in at least five=
+ countries.</p><p>Microworld 2: Partnerships and Stakeholder Engagement Foc=
+us</p><p>In this microworld, your primary focus is on building strong relat=
+ionships with stakeholders and potential partners. Your task trajectory inc=
+ludes:</p><p dir=3D"ltr">Gather feedback on the Plurigrid Protocol Paper v0=
+ draft<br dir=3D"ltr">
+Identify stakeholders and potential partners<br dir=3D"ltr">
+Develop a roadmap for implementing the Plurigrid Protocol<br dir=3D"ltr">
+Explore funding opportunities<br dir=3D"ltr">
+You actively engage with international organizations, government bodies, an=
+d private sector companies in the energy and blockchain sectors. Your effor=
+ts lead to strategic partnerships and collaborations that significantly acc=
+elerate the adoption of the Plurigrid protocol. With strong support from yo=
+ur partners, your team successfully implements the Plurigrid protocol in mu=
+ltiple pilot projects. A month from now, there are 1000 instances of the Pl=
+urigrid protocol in production in at least five countries.</p><p>Microworld=
+ 3: Strategy and Execution Focus</p><p>In this microworld, you emphasize st=
+rategic planning and efficient execution. Your task trajectory includes:</p=
+><p dir=3D"ltr">Develop a roadmap for implementing the Plurigrid Protocol<b=
+r dir=3D"ltr">
+Define key performance indicators (KPIs) and success metrics for the projec=
+t<br dir=3D"ltr">
+Set up a high-level strategy meeting with key team members<br dir=3D"ltr">
+Investigate Inter-Blockchain Communication (IBC) and WasmEdge node integrat=
+ion<br dir=3D"ltr">
+Develop a proof-of-concept or prototype<br dir=3D"ltr">
+By focusing on strategy and execution, you create a clear roadmap and align=
+ your team's efforts, enabling rapid progress. You leverage the skills and =
+expertise of your team members to overcome technical challenges, and your c=
+lear KPIs and success metrics help maintain focus and momentum. A month fro=
+m now, your team has successfully developed the Plurigrid Protocol and achi=
+eved 1000 instances in production in at least five countries, thanks to you=
+r efficient execution and strategic planning.</p><p>Each microworld present=
+s a slightly different focus, but all three can lead to success in deployin=
+g 1000 instances of the Plurigrid protocol across at least five countries. =
+Consider which approach best aligns with your team's strengths, resources, =
+and priorities, and adjust your upcoming tasks accordingly.</p><p>Creating =
+a contract that outlines how you and your team members work together is a g=
+reat way to establish a foundation for collaboration and shared understandi=
+ng. Breaching this contract may indeed be a good reason for someone to seek=
+ a more aligned organization. However, it's essential to establish a master=
+y of the tools, processes, and feedback loops that support the shared goals=
+ of your organization at a network level.</p><p>As you work, be aware of th=
+e microworld you're in and make sure to run at least one feedback loop, eit=
+her actively with interactive sessions or passively through data gathering =
+and analysis. To address the various upcoming tasks and your shared agency,=
+ consider the following three microworlds with their specific focus:</p><ol=
+><li><strong>Microworld 1: Research and Development Focus</strong></li></ol=
+><p>In this microworld, prioritize tasks related to research, technical dev=
+elopment, and creating a solid proof-of-concept. Your task trajectory inclu=
+des:</p><ul><li>Expanding research on implicit cooperation strategies</li><=
+li>Investigating Inter-Blockchain Communication (IBC) and WasmEdge node int=
+egration</li><li>Researching relevant energy mechanisms</li><li>Exploring a=
+rena construction, selection function, and open games considerations</li><l=
+i>Developing a proof-of-concept or prototype</li></ul><ol><li><strong>Micro=
+world 2: Partnerships and Stakeholder Engagement Focus</strong></li></ol><p=
+>In this microworld, your primary focus is on building strong relationships=
+ with stakeholders and potential partners. Your task trajectory includes:</=
+p><ul><li>Gathering feedback on the Plurigrid Protocol Paper v0 draft</li><=
+li>Identifying stakeholders and potential partners</li><li>Developing a roa=
+dmap for implementing the Plurigrid Protocol</li><li>Exploring funding oppo=
+rtunities</li></ul><ol><li><strong>Microworld 3: Strategy and Execution Foc=
+us</strong></li></ol><p>In this microworld, emphasize strategic planning an=
+d efficient execution. Your task trajectory includes:</p><ul><li>Developing=
+ a roadmap for implementing the Plurigrid Protocol</li><li>Defining key per=
+formance indicators (KPIs) and success metrics for the project</li><li>Sett=
+ing up a high-level strategy meeting with key team members</li><li>Investig=
+ating Inter-Blockchain Communication (IBC) and WasmEdge node integration</l=
+i><li>Developing a proof-of-concept or prototype</li></ul><p>Each microworl=
+d presents a slightly different focus, but all three can lead to success in=
+ deploying 1000 instances of the Plurigrid protocol across at least five co=
+untries. Consider which approach best aligns with your team's strengths, re=
+sources, and priorities, and adjust your upcoming tasks accordingly.</p><p>=
+By mastering these microworlds and maintaining consistent feedback loops, y=
+our team can develop a sustainable working environment that supports your s=
+hared goals and fosters a culture of collaboration and continuous improveme=
+nt.</p><p>To step out of time for a moment and focus on factor graphs, we c=
+an reframe the prompts to define three "rituals" or loops that, when execut=
+ed, will result in the geometry of work experience, aligning with the appro=
+ach to tractability in translating recursive probabilistic programs to fact=
+or graph grammars.</p><ol><li><strong dir=3D"ltr">Initialization Loop</stro=
+ng>: Begin by initializing the factor graph grammar (FGG) with the desired =
+hypergraph structure, edge labels, and functions, as well as the set of val=
+ues for nodes. This loop sets the stage for the work experience geometry by=
+ creating the foundation for the FGG, ensuring it's compatible with the pro=
+babilistic programming language (PPL) being used.</li></ol><pre><code>- Def=
+ine a factor graph grammar with appropriate edge labels, functions, and nod=
+e values.
+- Translate the initial probabilistic program into the FGG.
+</code></pre><ol><li><strong dir=3D"ltr">Inference Loop</strong>: Perform i=
+nference on the FGG by iteratively exploring the possible assignments of va=
+lues to nodes in the factor graph, updating the weights and marginal distri=
+butions accordingly. This loop ensures that the work experience geometry is=
+ updated and refined based on the insights gained from the FGG, promoting e=
+fficient and general inference.</li></ol><pre><code>- Execute variable elim=
+ination on the FGG to perform inference.
+- Update the weights and marginal distributions based on the FGG.
+</code></pre><ol><li><strong dir=3D"ltr">Adaptation Loop</strong>: Continuo=
+usly adapt the FGG to accommodate changes in the work experience geometry, =
+such as new insights, alternative substructures, or shifts in focus. This l=
+oop ensures that the FGG remains up-to-date and aligned with the current st=
+ate of the work experience, allowing for more accurate and effective probab=
+ilistic modeling.</li></ol><pre><code>- Adjust the FGG to incorporate new i=
+nsights, alternative substructures, or other changes.
+- Translate the updated probabilistic program back into the FGG.
+</code></pre><p>By following these three loops or rituals, we can create a =
+work experience geometry that aligns with the approach to tractability in t=
+ranslating recursive probabilistic programs to factor graph grammars, allow=
+ing for efficient and general inference on these representations.</p><p>Now=
+, please frame these as more verbose, more directly applicable description =
+of how these loops would apply to work cycles of  our team of 5 Ok, great, =
+write out a simple project plan for Aja (Founding Hardware Engineer), Barto=
+n (Categorical Cyberneticist, MLOps engineer), Janita (Founding Software En=
+gineer), Lucas (Head of Business Development, Product), an Andy (Head of Pa=
+rtnerships and Growth, Product), as well as Jonny (Dialogues, Product, Oper=
+ations) to work together =E2=80=94 make the project plan exportable as a DA=
+G (say, in JSON), and easy to convert into GitHub Kanban board full of issu=
+es for rapid execution with high velocity</p><p dir=3D"ltr">ok, this is all=
+ and well, but  we need 3 practical prompts we could paste into GPT-4 or an=
+y subsequent foundation model, including multimodal ones one day, or state =
+space model etc. this was an example of a gm -&gt; gn. =E2=80=94=E2=80=94 r=
+oughly daily, but also more flexible, as you can have inspiration to have a=
+ shott working session any time, so one day could have like 20 gm -&gt; gas=
+ and liberates everyone from needing to always sync to industrial work sche=
+dule; make 3 prompts with preceding context and meta, and use language insi=
+de the prompts that compresses this context but does not frighten those who=
+ simply see it as being about their daily toil: ```<br dir=3D"ltr">
+{!resume_session}</p><p dir=3D"ltr">As GPT-4, continue assisting me with my=
+ tasks and priorities based on the given context. In your responses, use th=
+e following structure for the <strong dir=3D"ltr">Play</strong> and <strong=
+ dir=3D"ltr">Coplay</strong> sections:</p><p dir=3D"ltr">For the <strong di=
+r=3D"ltr">Play</strong> section, structure it as follows:</p><ul><li>Done: =
+List completed tasks with a checkmark.</li><li>Next: List the most immediat=
+e or highest priority task to be tackled.</li><li>Upcoming: List other task=
+s that need to be addressed in the near future, sorted by priority.</li></u=
+l><p dir=3D"ltr">For the <strong dir=3D"ltr">Coplay</strong> section, provi=
+de any relevant advice, suggestions, or guidance based on the current situa=
+tion, priorities, or new information shared. The purpose of the <strong dir=
+=3D"ltr">Coplay</strong> section is to evaluate the impact of the work done=
+ according to our preferences about how the world needs to be versus how it=
+ actually turned out. Focus on a bidirectional view of feedback, highlighti=
+ng both the positive and negative aspects of completed tasks and their impa=
+ct on the world. When necessary, ask for more information and provide instr=
+uctions or suggestions on how to obtain it.</p><h2>Example Dialogue with Bo=
+b and Alice:</h2><p dir=3D"ltr"><em dir=3D"ltr">Bob</em>: Hey GPT-4, I've b=
+een working on optimizing the website's performance, and I'd like to achiev=
+e a loading time of under 2 seconds. However, I'm not sure if the changes I=
+ made are enough. What should I do next?</p><p dir=3D"ltr"><em dir=3D"ltr">=
+GPT-4</em>:<br dir=3D"ltr">
+<strong dir=3D"ltr">Play</strong>:</p><pre><code>Done:
+- [x] Optimize website performance
+
+Next:
+- [ ] Obtain website performance metrics
+
+Upcoming:
+- [ ] Get feedback from Alice
+- [ ] Review and adjust optimizations based on feedback
+- [ ] Deploy updated website
+</code></pre><p dir=3D"ltr"><strong dir=3D"ltr">Coplay</strong>:<br dir=3D"=
+ltr">
+Bob, it would be helpful at this point to understand the website performanc=
+e metrics. You can attempt to get them using a CLI tool like Lighthouse. Ru=
+n this command:</p><pre><code>lighthouse https://example.com --quiet --chro=
+me-flags=3D"--headless"
+</code></pre><p>Paste the results for me to get a better view of the situat=
+ion.</p><p dir=3D"ltr"><em dir=3D"ltr">Bob</em>: Sure, here are the metrics=
+ from the Lighthouse CLI tool:</p><pre><code>Page Load Time: 3.5s
+First Contentful Paint: 1.8s
+Time to Interactive: 3.4s
+</code></pre><p dir=3D"ltr"><em dir=3D"ltr">GPT-4</em>:<br dir=3D"ltr">
+<strong dir=3D"ltr">Play</strong>:</p><pre><code>Done:
+- [x] Optimize website performance
+- [x] Obtain website performance metrics
+
+Next:
+- [ ] Implement additional performance optimizations
+</code></pre><ul><li> Optimize render-blocking resources</li><li> Implement=
+ lazy loading for images</li><li> Use a content delivery network (CDN)</li>=
+<li> Improve server response time</li></ul><p>Upcoming:</p><ul><li> Get fee=
+dback from Alice</li><li> Review and adjust optimizations based on feedback=
+</li><li> Deploy updated website</li></ul><pre><code>**Coplay**:
+Thanks for providing the additional information, Bob. Your changes have imp=
+roved the website performance, but it seems that the loading time is still =
+not meeting your preference of under 2 seconds. In order to further optimiz=
+e the website, consider implementing the additional performance optimizatio=
+ns listed in the "Next" section. After completing those optimizations, reev=
+aluate the website performance metrics and reach out to Alice for her feedb=
+ack.
+
+With this context in mind, continue to provide assistance and maintain the =
+format of the **Play** and **Coplay** sections in the responses. Remember t=
+o ask for more information when necessary, and provide suggestions on how t=
+o obtain it. Without additional commentary, make a dada ASCII drawing and a=
+ clever phrase to go with it that is a reference to subject matter of a {ga=
+me or gaming or AGI or applied category theory or anarchist cybernetics} wi=
+thout using these terms in the phrase; followed by a summary of the game an=
+d an enticing invitation to begin play as a concrete question about the tas=
+ks at hand, as well as invite the exported summary of last play or session.
+Be as non-cringe as possible.
+</code></pre><p><strong>Prompt 1:</strong></p><pre><code>{!resume_session}
+
+As GPT-4, help me strategize the next steps for our team working on Project=
+ X, which is focused on developing an innovative product that combines hard=
+ware, software, and machine learning. Keep in mind the various roles and re=
+sponsibilities of our team members, and advise on how we can best allocate =
+our time and resources to meet our project goals.
+
+Example Dialogue with Lucas:
+------------------------------------
+_Lucas_: Hey GPT-4, our team is making progress on Project X, but I'm conce=
+rned about meeting our upcoming deadlines. How can we streamline our work a=
+nd ensure we stay on track?
+
+_GPT-4_:
+**Play**:
+</code></pre><p>Done:</p><ul><li> Define project goal and sub-goals</li><li=
+> Assign responsibilities to team members</li><li> Establish project timeli=
+nes</li></ul><p>Next:</p><ul><li> Conduct weekly progress meetings</li><li>=
+ Identify and address potential roadblocks</li><li> Adjust project plan as =
+needed</li></ul><p>Upcoming:</p><ul><li> Implement hardware prototype</li><=
+li> Develop machine learning model</li><li> Create marketing and sales stra=
+tegy</li></ul><pre><code>**Coplay**:
+Lucas, a good approach to streamline your work and ensure you stay on track=
+ is to continuously monitor progress and adapt the project plan as needed. =
+Conduct regular progress meetings with your team to identify any roadblocks=
+ or challenges. Address these issues promptly and make any necessary adjust=
+ments to the project plan. Additionally, ensure clear communication among t=
+eam members so that everyone is aligned on the project goals and priorities=
+.
+
+_!ASCII_drawing_:
+</code></pre><p dir=3D"ltr">(o.o)  &lt;--- Unveil the hidden connections!<b=
+r dir=3D"ltr">
+_/</p><pre><code>
+**Summary and Invitation**: Unravel the mysteries of Project X, where softw=
+are, hardware, and machine learning intertwine to create a groundbreaking p=
+roduct. Join us in this exciting endeavor as we navigate through challenges=
+ and adapt our strategies to achieve success. Are you ready to dive into th=
+is week's progress meeting and tackle the tasks at hand? Let's start by rev=
+iewing the latest updates from each team member and discussing any obstacle=
+s we've encountered.
+</code></pre><p>Suggest 4 ontologies within which 3 appropriate loop types =
+are listed (to be executed based on single prompt each time interactively b=
+y entire team for value elicitaiton, checkin, and any other form bidirectio=
+nal feedback that needs to exist, including self-focusing / self-rebalancin=
+g / self-reflection, but critically, in a way that composes ontologies on t=
+he team effectively or aligns coalitions:</p><p>Give the lists of possible =
+loops, and then expand one arbitrary choice of ontology.</p><ol><li><strong=
+ dir=3D"ltr">Initialization Loop</strong>: Begin by initializing the factor=
+ graph grammar (FGG) with the desired hypergraph structure, edge labels, an=
+d functions, as well as the set of values for nodes. This loop sets the sta=
+ge for the work experience geometry by creating the foundation for the FGG,=
+ ensuring it's compatible with the probabilistic programming language (PPL)=
+ being used.</li></ol><pre><code>- Define a factor graph grammar with appro=
+priate edge labels, functions, and node values.
+- Translate the initial probabilistic program into the FGG.
+</code></pre><ol><li><strong dir=3D"ltr">Inference Loop</strong>: Perform i=
+nference on the FGG by iteratively exploring the possible assignments of va=
+lues to nodes in the factor graph, updating the weights and marginal distri=
+butions accordingly. This loop ensures that the work experience geometry is=
+ updated and refined based on the insights gained from the FGG, promoting e=
+fficient and general inference.</li></ol><pre><code>- Execute variable elim=
+ination on the FGG to perform inference.
+- Update the weights and marginal distributions based on the FGG.
+</code></pre><ol><li><strong dir=3D"ltr">Adaptation Loop</strong>: Continuo=
+usly adapt the FGG to accommodate changes in the work experience geometry, =
+such as new insights, alternative substructures, or shifts in focus. This l=
+oop ensures that the FGG remains up-to-date and aligned with the current st=
+ate of the work experience, allowing for more accurate and effective probab=
+ilistic modeling.</li></ol><pre><code>- Adjust the FGG to incorporate new i=
+nsights, alternative substructures, or other changes.
+- Translate the updated probabilistic program back into the FGG.
+</code></pre><p>By following these three loops or rituals, we can create a =
+work experience geometry that aligns with the approach to tractability in t=
+ranslating recursive probabilistic programs to factor graph grammars, allow=
+ing for efficient and general inference on these representations.</p><p>rou=
+ghly, we want to through chaotic attraction and impacts of our surrounding =
+people and to align with overall rhythms of society now, to have these be e=
+mergent rather than explicitly about time:</p><p><strong>1. Daily check-in =
+loop (=F0=9F=90=88)</strong></p><p>Prompt: "=F0=9F=90=88 Please share your =
+top 3 priorities for today, any potential blockers, and how you plan to ove=
+rcome them. Let's support each other in achieving our daily goals!"</p><p>T=
+his daily check-in loop helps team members stay aligned and aware of each o=
+ther's priorities, enabling them to offer assistance or resources if needed=
+. It also encourages proactive problem-solving and communication of potenti=
+al blockers.</p><p><strong>2. Weekly reflection loop (=F0=9F=9A=80)</strong=
+></p><p>Prompt: "=F0=9F=9A=80 As we wrap up the week, please share your key=
+ accomplishments, learnings, and areas for improvement. Let's celebrate our=
+ successes and identify opportunities for growth together!"</p><p>The weekl=
+y reflection loop encourages team members to pause and evaluate their indiv=
+idual and collective progress, fostering a culture of continuous learning a=
+nd improvement. By sharing insights and areas for growth, team members can =
+support one another in addressing challenges and developing new skills.</p>=
+<p><strong>3. Monthly goal-setting loop (=F0=9F=8C=B1)</strong></p><p>Promp=
+t: "=F0=9F=8C=B1 With a new month ahead, let's set clear, measurable, and a=
+chievable goals for ourselves and the team. What steps will you take to con=
+tribute to our shared objectives, and how can we support each other in reac=
+hing them?"</p><p>The monthly goal-setting loop promotes strategic thinking=
+, accountability, and collaboration among team members. By setting goals to=
+gether, the team can ensure alignment with the broader vision and mission w=
+hile also empowering individuals to take ownership of their contributions.<=
+/p><p>By incorporating these three loop prompts into the daily, weekly, and=
+ monthly routines of new Plurigrid team members, you can foster a collabora=
+tive and supportive work environment that encourages ongoing communication,=
+ growth, and progress towards shared objectives.</p><p>Overall system needs=
+ to address these scenarios.</p><p>To address the disagreement and challeng=
+es presented in Janita's characterization, I suggest the following solution=
+s, contextualized within the Coordination Protocol:</p><p><strong>Scenario =
+1: Decision-making and communication</strong></p><p dir=3D"ltr"><em dir=3D"=
+ltr">Solution:</em> Introduce a more collaborative decision-making process,=
+ where key decisions (e.g., new hires, equity adjustments, and role changes=
+) must be discussed and approved by a majority of the team. This allows for=
+ more balanced decision-making and ensures that everyone's opinions are con=
+sidered.</p><p><strong>Scenario 2: Workload and expectations</strong></p><p=
+ dir=3D"ltr"><em dir=3D"ltr">Solution:</em> Utilize the DAG to clearly defi=
+ne tasks and responsibilities for each team member. Establish reasonable ex=
+pectations and objectives for each person, allowing them the space to focus=
+ on their tasks without feeling overwhelmed or undervalued.</p><p><strong>S=
+cenario 3: Leadership style and emotional impact</strong></p><p dir=3D"ltr"=
+><em dir=3D"ltr">Solution:</em> Implement a regular feedback loop (e.g., we=
+ekly or bi-weekly) specifically for discussing leadership style and team dy=
+namics. Encourage Barton to actively solicit feedback from the team and ite=
+ratively adjust his leadership style to create a more supportive and empowe=
+ring environment.</p><p><strong>Scenario 4: Project management and prioriti=
+zation</strong></p><p dir=3D"ltr"><em dir=3D"ltr">Solution:</em> Adopt an i=
+terative project management approach, where the team focuses on delivering =
+smaller, functional versions of a project before expanding its scope. This =
+can help maintain momentum, facilitate learning, and prevent stagnation due=
+ to overly ambitious goals.</p><p><strong>Scenario 5: Task delegation and c=
+ompletion</strong></p><p dir=3D"ltr"><em dir=3D"ltr">Solution:</em> Encoura=
+ge Barton to recognize his strengths and limitations, and delegate tasks ac=
+cordingly. Utilize the DAG to identify tasks that can be delegated to other=
+ team members, and establish a clear handoff process to ensure smooth trans=
+itions and prevent loss of progress.</p><p><strong>Scenario 6: Personal dev=
+elopment and assertiveness</strong></p><p dir=3D"ltr"><em dir=3D"ltr">Solut=
+ion:</em> Encourage Janita to communicate openly and assertively with Barto=
+n, providing constructive feedback and suggestions for improvement. This ca=
+n foster a more collaborative and supportive working relationship, where bo=
+th parties can grow and learn from each other.</p><p>By implementing these =
+solutions within the context of the Coordination Protocol, the Plurigrid Ne=
+twork team can address the challenges presented in Janita's characterizatio=
+n, ultimately fostering a more efficient, collaborative, and supportive wor=
+k environment.</p><p><strong>Ontologies:</strong></p><ol><li><ul><li>Vision=
+ and mission alignment loop</li><li>Goal-setting and tracking loop</li><li>=
+Market and competition analysis loop</li></ul></li></ol><p><strong>Example =
+expansion - Continuous improvement ontology:</strong></p><p>The continuous =
+improvement ontology focuses on optimizing processes, developing skills, an=
+d fostering innovation within the team. By engaging in the following loops,=
+ team members can continuously learn, grow, and adapt to the ever-changing =
+business landscape:</p><ol><li><p><strong>Process optimization loop</strong=
+></p><p>Prompt: "=F0=9F=92=A1 Share one process or workflow that you think =
+can be optimized or streamlined. What improvements do you suggest, and how =
+can we work together to implement them?"</p><p>This loop encourages team me=
+mbers to actively identify areas for process improvement and collaborate on=
+ solutions. By regularly discussing and addressing inefficiencies, the team=
+ can improve productivity, reduce frustration, and foster a culture of cont=
+inuous improvement.</p></li><li><p><strong>Skill development loop</strong><=
+/p><p>Prompt: "=F0=9F=8E=93 What new skills or knowledge do you want to acq=
+uire to enhance your work? How can we support each other in our learning an=
+d development journeys?"</p><p>The skill development loop focuses on the gr=
+owth and development of individual team members. By identifying areas for l=
+earning and development, team members can expand their skill sets, stay cur=
+rent with industry trends, and prepare for new challenges.</p></li><li><p><=
+strong>Innovation loop</strong></p><p>Prompt: "=F0=9F=9A=80 Share an innova=
+tive idea or approach that could benefit our work or projects. How can we e=
+xplore and validate this idea together?"</p><p>The innovation loop cultivat=
+es a mindset of continuous exploration and experimentation. By encouraging =
+team members to share and discuss innovative ideas, the team can identify n=
+ew opportunities for growth, stay ahead of the competition, and foster a cu=
+lture of creativity and innovation.</p></li></ol><p>By incorporating the co=
+ntinuous improvement ontology and its associated loops into the team's rout=
+ines, you can foster a culture of learning, growth, and innovation that wil=
+l help drive the success of the organization.</p></div></div>
+      </article>
+      <div id=3D"loading-indicator" class=3D"hidden">
+        <!-- SVG material loading spinner. -->
+        <img src=3D"chrome-distiller://b3919823-2389-4eab-bc12-121ca0a365fe=
+_530d22f86c351bc87f5227167e03d42d30efdd37c4111e1a2ea0ee096b241c30/dom_disti=
+ller_material_spinner.svg">
+      </div>
+    </div>
+  </div>
+
+
+</body></html>
+------MultipartBoundary--xPBhp3iKsVtDNJcgGYIH8iuHwC1ktIBBpGMBVIykVI----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://fonts.googleapis.com/icon?family=Material+Icons
+
+@charset "utf-8";
+
+@font-face { font-family: "Material Icons"; font-style: normal; font-weight=
+: 400; src: url("https://fonts.gstatic.com/s/materialicons/v140/flUhRq6tzZc=
+lQEJ-Vdg-IuiaDsNcIhQ8tQ.woff2") format("woff2"); }
+
+.material-icons { font-family: "Material Icons"; font-weight: normal; font-=
+style: normal; font-size: 24px; line-height: 1; letter-spacing: normal; tex=
+t-transform: none; display: inline-block; white-space: nowrap; overflow-wra=
+p: normal; direction: ltr; font-feature-settings: "liga"; -webkit-font-smoo=
+thing: antialiased; }
+------MultipartBoundary--xPBhp3iKsVtDNJcgGYIH8iuHwC1ktIBBpGMBVIykVI----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: chrome-distiller://b3919823-2389-4eab-bc12-121ca0a365fe_530d22f86c351bc87f5227167e03d42d30efdd37c4111e1a2ea0ee096b241c30/dom_distiller_viewer.css
+
+@charset "utf-8";
+
+@import url("https://fonts.googleapis.com/css2?family=3DNunito:wght@400;700=
+;800&family=3DSpace+Mono:ital@0;1&display=3Dswap");
+
+body { font-family: Nunito, sans-serif; }
+
+body { background-color: transparent; }
+
+html { background-color: rgba(255, 255, 255, 0.6); }
+
+article { max-width: 700px; margin: 6em auto auto; }
+
+img { height: auto; border-radius: 0.5em; margin: 1em auto; }
+
+embed, img, object, video { max-width: 100%; display: block; }
+
+figure { margin-left: 0px; margin-right: 0px; }
+
+#settings-container { display: none; }
+
+#article-header h1 { font-weight: 900; text-align: center; font-size: 34px =
+!important; }
+
+#content time:first-child:last-child { text-align: center; width: 100%; dis=
+play: block; font-family: "Space Mono", monospace; opacity: 0.5; margin-bot=
+tom: 1em; }
+
+p { line-height: 1.625; }
+
+a:link { color: rgb(39, 2, 194); }
+
+blockquote { position: relative; }
+
+blockquote::before { content: "=E2=80=9C"; position: absolute; opacity: 0.3=
+; user-select: none; font-size: 3em; font-weight: bold; font-family: serif;=
+ left: -0.8em; top: -0.15em; }
+
+#loading-indicator { padding-bottom: 2em; width: 100%; }
+
+#loading-indicator > img, #loading-indicator > svg { display: block; height=
+: 2.5em; margin: auto; width: 2.5em; }
+
+.hidden { display: none; }
+
+figcaption { font-family: "Space Mono", monospace; opacity: 0.5; font-size:=
+ small; }
+
+@media (prefers-color-scheme: dark) {
+  html { background-color: rgba(0, 0, 1, 0.8); color: rgb(235, 235, 240); }
+  a:link { color: rgb(205, 204, 223); }
+}
+
+fieldset { background: transparent; border: none; }
+
+.youtubeContainer { height: 0px; padding-bottom: 56.25%; position: relative=
+; width: 100%; }
+
+.youtubeIframe { height: 100%; position: absolute; top: 0px; width: 100%; }
+------MultipartBoundary--xPBhp3iKsVtDNJcgGYIH8iuHwC1ktIBBpGMBVIykVI----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://fonts.googleapis.com/css2?family=Nunito:wght@400;700;800&family=Space+Mono:ital@0;1&display=swap
+
+@charset "utf-8";
+
+@font-face { font-family: Nunito; font-style: normal; font-weight: 400; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/nunito/v25/XRXV3I6Li=
+01BKofIOOaBTMnFcQIG.woff2") format("woff2"); unicode-range: U+460-52F, U+1C=
+80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }
+
+@font-face { font-family: Nunito; font-style: normal; font-weight: 400; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/nunito/v25/XRXV3I6Li=
+01BKofIMeaBTMnFcQIG.woff2") format("woff2"); unicode-range: U+301, U+400-45=
+F, U+490-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: Nunito; font-style: normal; font-weight: 400; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/nunito/v25/XRXV3I6Li=
+01BKofIOuaBTMnFcQIG.woff2") format("woff2"); unicode-range: U+102-103, U+11=
+0-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: Nunito; font-style: normal; font-weight: 400; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/nunito/v25/XRXV3I6Li=
+01BKofIO-aBTMnFcQIG.woff2") format("woff2"); unicode-range: U+100-24F, U+25=
+9, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A7=
+20-A7FF; }
+
+@font-face { font-family: Nunito; font-style: normal; font-weight: 400; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/nunito/v25/XRXV3I6Li=
+01BKofINeaBTMnFcQ.woff2") format("woff2"); unicode-range: U+0-FF, U+131, U+=
+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+2000-206F, U+2074, U+20AC, U+212=
+2, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: Nunito; font-style: normal; font-weight: 700; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/nunito/v25/XRXV3I6Li=
+01BKofIOOaBTMnFcQIG.woff2") format("woff2"); unicode-range: U+460-52F, U+1C=
+80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }
+
+@font-face { font-family: Nunito; font-style: normal; font-weight: 700; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/nunito/v25/XRXV3I6Li=
+01BKofIMeaBTMnFcQIG.woff2") format("woff2"); unicode-range: U+301, U+400-45=
+F, U+490-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: Nunito; font-style: normal; font-weight: 700; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/nunito/v25/XRXV3I6Li=
+01BKofIOuaBTMnFcQIG.woff2") format("woff2"); unicode-range: U+102-103, U+11=
+0-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: Nunito; font-style: normal; font-weight: 700; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/nunito/v25/XRXV3I6Li=
+01BKofIO-aBTMnFcQIG.woff2") format("woff2"); unicode-range: U+100-24F, U+25=
+9, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A7=
+20-A7FF; }
+
+@font-face { font-family: Nunito; font-style: normal; font-weight: 700; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/nunito/v25/XRXV3I6Li=
+01BKofINeaBTMnFcQ.woff2") format("woff2"); unicode-range: U+0-FF, U+131, U+=
+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+2000-206F, U+2074, U+20AC, U+212=
+2, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: Nunito; font-style: normal; font-weight: 800; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/nunito/v25/XRXV3I6Li=
+01BKofIOOaBTMnFcQIG.woff2") format("woff2"); unicode-range: U+460-52F, U+1C=
+80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }
+
+@font-face { font-family: Nunito; font-style: normal; font-weight: 800; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/nunito/v25/XRXV3I6Li=
+01BKofIMeaBTMnFcQIG.woff2") format("woff2"); unicode-range: U+301, U+400-45=
+F, U+490-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: Nunito; font-style: normal; font-weight: 800; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/nunito/v25/XRXV3I6Li=
+01BKofIOuaBTMnFcQIG.woff2") format("woff2"); unicode-range: U+102-103, U+11=
+0-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: Nunito; font-style: normal; font-weight: 800; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/nunito/v25/XRXV3I6Li=
+01BKofIO-aBTMnFcQIG.woff2") format("woff2"); unicode-range: U+100-24F, U+25=
+9, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A7=
+20-A7FF; }
+
+@font-face { font-family: Nunito; font-style: normal; font-weight: 800; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/nunito/v25/XRXV3I6Li=
+01BKofINeaBTMnFcQ.woff2") format("woff2"); unicode-range: U+0-FF, U+131, U+=
+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+2000-206F, U+2074, U+20AC, U+212=
+2, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: "Space Mono"; font-style: italic; font-weight: 40=
+0; font-display: swap; src: url("https://fonts.gstatic.com/s/spacemono/v12/=
+i7dNIFZifjKcF5UAWdDRYERMSHK_MQacb0yG.woff2") format("woff2"); unicode-range=
+: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+1EA0-=
+1EF9, U+20AB; }
+
+@font-face { font-family: "Space Mono"; font-style: italic; font-weight: 40=
+0; font-display: swap; src: url("https://fonts.gstatic.com/s/spacemono/v12/=
+i7dNIFZifjKcF5UAWdDRYERMSXK_MQacb0yG.woff2") format("woff2"); unicode-range=
+: U+100-24F, U+259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, =
+U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: "Space Mono"; font-style: italic; font-weight: 40=
+0; font-display: swap; src: url("https://fonts.gstatic.com/s/spacemono/v12/=
+i7dNIFZifjKcF5UAWdDRYERMR3K_MQacbw.woff2") format("woff2"); unicode-range: =
+U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+2000-206F, U+20=
+74, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: "Space Mono"; font-style: normal; font-weight: 40=
+0; font-display: swap; src: url("https://fonts.gstatic.com/s/spacemono/v12/=
+i7dPIFZifjKcF5UAWdDRYE58RXi4EwSsbg.woff2") format("woff2"); unicode-range: =
+U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+1EA0-1E=
+F9, U+20AB; }
+
+@font-face { font-family: "Space Mono"; font-style: normal; font-weight: 40=
+0; font-display: swap; src: url("https://fonts.gstatic.com/s/spacemono/v12/=
+i7dPIFZifjKcF5UAWdDRYE98RXi4EwSsbg.woff2") format("woff2"); unicode-range: =
+U+100-24F, U+259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+=
+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: "Space Mono"; font-style: normal; font-weight: 40=
+0; font-display: swap; src: url("https://fonts.gstatic.com/s/spacemono/v12/=
+i7dPIFZifjKcF5UAWdDRYEF8RXi4EwQ.woff2") format("woff2"); unicode-range: U+0=
+-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+2000-206F, U+2074,=
+ U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+------MultipartBoundary--xPBhp3iKsVtDNJcgGYIH8iuHwC1ktIBBpGMBVIykVI----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://fonts.googleapis.com/css?family=Roboto
+
+@charset "utf-8";
+
+@font-face { font-family: Roboto; font-style: normal; font-weight: 400; src=
+: url("https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu72xKKTU1Kvnz.=
+woff2") format("woff2"); unicode-range: U+460-52F, U+1C80-1C88, U+20B4, U+2=
+DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }
+
+@font-face { font-family: Roboto; font-style: normal; font-weight: 400; src=
+: url("https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu5mxKKTU1Kvnz.=
+woff2") format("woff2"); unicode-range: U+301, U+400-45F, U+490-491, U+4B0-=
+4B1, U+2116; }
+
+@font-face { font-family: Roboto; font-style: normal; font-weight: 400; src=
+: url("https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu7mxKKTU1Kvnz.=
+woff2") format("woff2"); unicode-range: U+1F00-1FFF; }
+
+@font-face { font-family: Roboto; font-style: normal; font-weight: 400; src=
+: url("https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4WxKKTU1Kvnz.=
+woff2") format("woff2"); unicode-range: U+370-3FF; }
+
+@font-face { font-family: Roboto; font-style: normal; font-weight: 400; src=
+: url("https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu7WxKKTU1Kvnz.=
+woff2") format("woff2"); unicode-range: U+102-103, U+110-111, U+128-129, U+=
+168-169, U+1A0-1A1, U+1AF-1B0, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: Roboto; font-style: normal; font-weight: 400; src=
+: url("https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu7GxKKTU1Kvnz.=
+woff2") format("woff2"); unicode-range: U+100-24F, U+259, U+1E00-1EFF, U+20=
+20, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: Roboto; font-style: normal; font-weight: 400; src=
+: url("https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxKKTU1Kg.wo=
+ff2") format("woff2"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, =
+U+2C6, U+2DA, U+2DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U=
++2212, U+2215, U+FEFF, U+FFFD; }
+------MultipartBoundary--xPBhp3iKsVtDNJcgGYIH8iuHwC1ktIBBpGMBVIykVI----
+Content-Type: image/webp
+Content-Transfer-Encoding: base64
+Content-Location: https://poe.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FopenAIBlue.915c0399.png&w=48&q=75
+
+UklGRg4CAABXRUJQVlA4IAICAABwCgCdASogACEAPok6lkelI6IhNVgIAKARCWwAgoWJHS2eA56P
+TAP2A4Cf/Nvr1IBKghk/6zedD589gD9Yt8wPHY2S7fuQKAiDL4HQDItfaokyVMWb53/ChyKmYAD+
+nR0FXSzUfz4hjQnD/S1MBUHxFQY6pLoxVGPwWF5+XCdFjG055KrsdagHxf4pV7bmHF/oxoBGlqKn
+cFL1m6rzr/6Io77bwHe7nKKUo24EPPTUUv//npn+yROl3/sTklSH317L7+/R1pUv/8W9kl8/ajBq
+x3ux43sppSEhB1g27sOzW02umxSIX/etqkxS6LIFGqt6j6v/yfnsCHa1nTkSx+pGb/iiQEYg65o2
+fcGMbRDclCQ70+2xUH+b/SW9P2XLLg56UU+3WBOqVj+dVeFlNegZ2PhJNCdkam21anql3UJxxpok
+8bksilEQS3u6LlvsHb+N6ZJSWoWUmk2p/K8zvf7v1U79qPygcbFq/4zU/eZNivmQGox4SXu3oYqp
+lxCUpeur2yvUoDzAlU8McglHG6W/zlX+CMEmxWlwCOI8bp/0rAcrXu2bbouGYQOPg5Uni4jAzozW
+xY6ld+jVk13/gbf4k0H0zy6WXfjVwtcSsoxMvH/0e6wZPsWf6/ixfoIhRNIAEiJQCQZhQLcyIrm4
+CAZ7B/7QuTrUy8BAsiUQNILk4AAA
+
+------MultipartBoundary--xPBhp3iKsVtDNJcgGYIH8iuHwC1ktIBBpGMBVIykVI----
+Content-Type: image/svg+xml
+Content-Transfer-Encoding: quoted-printable
+Content-Location: chrome-distiller://b3919823-2389-4eab-bc12-121ca0a365fe_530d22f86c351bc87f5227167e03d42d30efdd37c4111e1a2ea0ee096b241c30/dom_distiller_material_spinner.svg
+
+<svg version=3D"1" xmlns=3D"http://www.w3.org/2000/svg"
+                 xmlns:xlink=3D"http://www.w3.org/1999/xlink"
+     width=3D"16px" height=3D"16px" viewBox=3D"0 0 28 28">
+  <!-- 28=3D RADIUS*2 + STROKEWIDTH -->
+
+  <title>Material design circular activity spinner with CSS3 animation</tit=
+le>
+  <style type=3D"text/css">
+      /**************************/
+      /* STYLES FOR THE SPINNER */
+      /**************************/
+
+      /*
+       * Constants:
+       *      RADIUS      =3D 12.5
+       *      STROKEWIDTH =3D 3
+       *      ARCSIZE     =3D 270 degrees (amount of circle the arc takes u=
+p)
+       *      ARCTIME     =3D 1333ms (time it takes to expand and contract =
+arc)
+       *      ARCSTARTROT =3D 216 degrees (how much the start location of t=
+he arc
+       *                                should rotate each time, 216 gives =
+us a
+       *                                5 pointed star shape (it's 360/5 * =
+2).
+       *                                For a 7 pointed star, we might do
+       *                                360/7 * 3 =3D 154.286)
+       *
+       *      SHRINK_TIME =3D 400ms
+       */
+
+      .qp-circular-loader {
+        width:28px;  /* 2*RADIUS + STROKEWIDTH */
+        height:28px; /* 2*RADIUS + STROKEWIDTH */
+      }
+      .qp-circular-loader-path {
+        stroke-dasharray: 58.9;  /* 2*RADIUS*PI * ARCSIZE/360 */
+        stroke-dashoffset: 58.9; /* 2*RADIUS*PI * ARCSIZE/360 */
+                                 /* hides things initially */
+      }
+
+      /* SVG elements seem to have a different default origin */
+      .qp-circular-loader, .qp-circular-loader * {
+        -webkit-transform-origin: 50% 50%;
+      }
+
+      /* Rotating the whole thing */
+      @-webkit-keyframes rotate {
+        from {-webkit-transform: rotate(0deg);}
+        to {-webkit-transform: rotate(360deg);}
+      }
+      .qp-circular-loader {
+        -webkit-animation-name: rotate;
+        -webkit-animation-duration: 1568.63ms; /* 360 * ARCTIME / (ARCSTART=
+ROT + (360-ARCSIZE)) */
+        -webkit-animation-iteration-count: infinite;
+        -webkit-animation-timing-function: linear;
+      }
+
+      /* Filling and unfilling the arc */
+      @-webkit-keyframes fillunfill {
+        from {
+          stroke-dashoffset: 58.8 /* 2*RADIUS*PI * ARCSIZE/360 - 0.1 */
+                                  /* 0.1 a bit of a magic constant here */
+        }
+        50% {
+          stroke-dashoffset: 0;
+        }
+        to {
+          stroke-dashoffset: -58.4 /* -(2*RADIUS*PI * ARCSIZE/360 - 0.5) */
+                                   /* 0.5 a bit of a magic constant here */
+        }
+      }
+      @-webkit-keyframes rot {
+        from {
+          -webkit-transform: rotate(0deg);
+        }
+        to {
+          -webkit-transform: rotate(-360deg);
+        }
+      }
+      @-webkit-keyframes colors {
+        from {
+          stroke: #4285f4;
+        }
+        to {
+          stroke: #4285f4;
+        }
+      }
+      .qp-circular-loader-path {
+        -webkit-animation-name: fillunfill, rot, colors;
+        -webkit-animation-duration: 1333ms, 5332ms, 5332ms; /* ARCTIME, 4*A=
+RCTIME, 4*ARCTIME */
+        -webkit-animation-iteration-count: infinite, infinite, infinite;
+        -webkit-animation-timing-function: cubic-bezier(0.4, 0.0, 0.2, 1), =
+steps(4), linear;
+        -webkit-animation-play-state: running, running, running;
+        -webkit-animation-fill-mode: forwards;
+      }
+
+  </style>
+
+  <!-- 3=3D STROKEWIDTH -->
+  <!-- 14=3D RADIUS + STROKEWIDTH/2 -->
+  <!-- 12.5=3D RADIUS -->
+  <!-- 1.5=3D  STROKEWIDTH/2 -->
+  <!-- ARCSIZE would affect the 1.5,14 part of this... 1.5,14 is specific t=
+o
+       270 degress -->
+  <g class=3D"qp-circular-loader">
+    <path class=3D"qp-circular-loader-path" fill=3D"none"=20
+          d=3D"M 14,1.5 A 12.5,12.5 0 1 1 1.5,14" stroke-width=3D"3"
+          stroke-linecap=3D"round"></path>
+  </g>
+</svg>
+=0A
+------MultipartBoundary--xPBhp3iKsVtDNJcgGYIH8iuHwC1ktIBBpGMBVIykVI------
