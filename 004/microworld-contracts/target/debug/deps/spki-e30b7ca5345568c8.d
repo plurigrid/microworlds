@@ -1,0 +1,12 @@
+/Users/janitachalam/Code/plurigrid/microworlds/004/target/debug/deps/spki-e30b7ca5345568c8.rmeta: /Users/janitachalam/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.6.0/src/lib.rs /Users/janitachalam/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.6.0/src/algorithm.rs /Users/janitachalam/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.6.0/src/error.rs /Users/janitachalam/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.6.0/src/spki.rs /Users/janitachalam/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.6.0/src/traits.rs /Users/janitachalam/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.6.0/src/../README.md
+
+/Users/janitachalam/Code/plurigrid/microworlds/004/target/debug/deps/libspki-e30b7ca5345568c8.rlib: /Users/janitachalam/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.6.0/src/lib.rs /Users/janitachalam/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.6.0/src/algorithm.rs /Users/janitachalam/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.6.0/src/error.rs /Users/janitachalam/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.6.0/src/spki.rs /Users/janitachalam/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.6.0/src/traits.rs /Users/janitachalam/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.6.0/src/../README.md
+
+/Users/janitachalam/Code/plurigrid/microworlds/004/target/debug/deps/spki-e30b7ca5345568c8.d: /Users/janitachalam/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.6.0/src/lib.rs /Users/janitachalam/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.6.0/src/algorithm.rs /Users/janitachalam/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.6.0/src/error.rs /Users/janitachalam/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.6.0/src/spki.rs /Users/janitachalam/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.6.0/src/traits.rs /Users/janitachalam/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.6.0/src/../README.md
+
+/Users/janitachalam/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.6.0/src/lib.rs:
+/Users/janitachalam/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.6.0/src/algorithm.rs:
+/Users/janitachalam/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.6.0/src/error.rs:
+/Users/janitachalam/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.6.0/src/spki.rs:
+/Users/janitachalam/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.6.0/src/traits.rs:
+/Users/janitachalam/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.6.0/src/../README.md:

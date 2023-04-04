@@ -1,0 +1,2 @@
+509a5d5b0917083cb657cb7781ae026f5421f29d7be21476d93c7af8faeb687e  target/wasm32-unknown-unknown/release/cw_microworld.wasm
+efb9dcdbb9ea19de3198e8bb5dcfd22a820f83395d92905946a9f34116791086  target/wasm32-unknown-unknown/release/cw_unhack_control.wasm

@@ -1,0 +1,3 @@
+cargo:rerun-if-changed=build/main.rs
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/janitachalam/Code/plurigrid/microworlds/004/target/debug/build/typenum-ae18806cb4cff6d7/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/janitachalam/Code/plurigrid/microworlds/004/target/debug/build/typenum-ae18806cb4cff6d7/out/op.rs
