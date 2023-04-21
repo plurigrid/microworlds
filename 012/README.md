@@ -1,0 +1,1 @@
+`plurigrid-rs` is a Rust project that demonstrates the use of CRDTs (Conflict-Free Replicated Data Types) to build a simple, collaborative data structure. It uses the Y-CRDT library to ensure that concurrent edits are merged consistently across multiple peers.
